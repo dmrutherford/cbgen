@@ -2,9 +2,9 @@
 
 *A children's book generator*
 
-Well, childrens book *title*, anyway - because let's be honest, there's a pretty standard formula for children's book titles. *The Very Hungry Caterpillar*. *The Enormous Crocodile*. *The Tantalisingly Slimy Gerbil*.* We all know how this works.
+Well, childrens book *title*, anyway - because let's be honest, there's a pretty standard formula for children's book titles. *The Very Hungry Caterpillar*. *The Enormous Crocodile*. *The Tantalisingly Slimy Gerbil*.† We all know how this works.
 
-\* This last entry provided as an example of the sort of quality output you can expect from `cbgen`
+† *This last entry provided as an example of the sort of quality output you can expect from* `cbgen`
 
 * * *
 
